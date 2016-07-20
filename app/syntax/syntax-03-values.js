@@ -12,4 +12,4 @@ console.log("Variable y with value 5 as a string using toString() = " + y.toStri
 
 console.log("Value 5 parsed and then toString() = " + parseInt(5).toString());
 
-// You can assign values to properties
+// You can assign values to properties but not to the properties of values :)
