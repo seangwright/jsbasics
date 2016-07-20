@@ -19,7 +19,3 @@ console.log("person's name is " + person.firstName + " " + person.lastName);
 person.firstName = "Jimmy";
 
 console.log("person's name is " + person.firstName + " " + person.lastName);
-
-// undefined is not null
-
-console.log("undefined is not null " + (undefined !== null));
